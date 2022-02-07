@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @ezdpz
-- 👀 I’m interested in Computer Science 
+- 👋 Hi, I’m Huy Tran
+- 👀 I study Math, Physics, and Computer Science at the University of Memphis
 - 🌱 I’m currently learning interesting things everyday
