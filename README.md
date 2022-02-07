@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ezdpz
+- 👀 I’m interested in Computer Science 
+- 🌱 I’m currently learning interesting things everyday
